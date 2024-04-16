@@ -36,7 +36,7 @@ python auction_system.py
 markdown
 Copy code
 
-2. Access the system through a web browser at the provided URL (e.g., http://localhost:5000).
+2. Access the system through a web browser at the provided URL (e.g., http://localhost:3000).
 
 3. Register an account or log in if you already have one.
 
